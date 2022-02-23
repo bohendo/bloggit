@@ -15,7 +15,7 @@
     "ipfs-client": "0.3.4",
     "isomorphic-git": "1.8.2",
     "it-all": "1.0.6",
-    "node-fetch": "2.6.1",
+    "node-fetch": "2.6.7",
     "nodemon": "2.0.13",
     "pino": "6.13.3",
     "pino-pretty": "7.0.1"
